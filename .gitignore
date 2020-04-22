@@ -1,0 +1,4 @@
+/vendor/*
+/javascriptSrc/*
+/.idea/*
+/composer.lock

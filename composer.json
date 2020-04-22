@@ -1,0 +1,37 @@
+{
+    "name": "socialapis/youtubedownloader-gui-php",
+    "type": "project",
+    "description": "YouTube-Downloader-GUI-PHP",
+    "homepage": "https://github.com/socialAPIS/YoutubeDownloader-GUI-PHP",
+    "keywords": [
+        "YouTube-Downloader",
+        "YouTube",
+        "Downloader"
+    ],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "socialAPIS",
+            "email": "noemail@example.com",
+            "role": "Founder"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "ext-curl": "*",
+        "hansott/psr7-cookies": "^3.0",
+        "laminas/laminas-httphandlerrunner": "^1.1",
+        "league/route": "^4.3",
+        "socialapis/youtubedownloader": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "YoutubeDownloader\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "YoutubeDownloader\\Tests\\": "tests/"
+        }
+    }
+}
