@@ -8,6 +8,14 @@
 
 PHP Library with Web UI to download videos from YouTube.
 
+**Do you like this project? Support it by donating**
+
+**socialAPIS**
+
+- ![btc](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png) Bitcoin: bc1qkauwj52rr6pelckjfq4htgjl7jvamkq5lklqca
+
+Feel free to fork and contribute if you like this project!
+
 ## Not Required
 
 We use the Youtube API, the API it self fetches the Id and Key, you don't need to
@@ -20,6 +28,7 @@ You must fit at least this requirements to use YouTube-Downloader:
 - PHP >= 7
 - Composer, if you don't have you can download it [here](https://getcomposer.org)
 - Web server (Apache/Nginx/PHP built-in)
+
 
 ## Installation
 
@@ -66,6 +75,11 @@ from youtube, to the Browser.
 
 See Example [here](https://github.com/socialAPIS/YoutubeDownloader/blob/master/Examples/FetchPlayer.php)
 
-## Contributing
+# License
+- GNU GENERAL PUBLIC LICENSE Version 2 [GPL 2](./LICENSE)
 
-You can help making this project better by reporting bugs or submitting pull requests. Please see our [contributing guideline](https://github.com/socialAPIS/YouTube-Downloader/blob/master/CONTRIBUTING.md) for more information.
+# Terms and conditions
+- We reserve the right to block users of this repository who misuse this repository.
+
+## Legal
+This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Google Or Youtube or any of its affiliates or subsidiaries. This is an independent and unofficial API. Use at your own risk.
