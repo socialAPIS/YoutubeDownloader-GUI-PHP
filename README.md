@@ -2,7 +2,7 @@
 
 [![Author](https://img.shields.io/badge/Author-socialAPIS-blue)](https://github.com/socialAPIS)
 [![Software License](https://img.shields.io/github/license/socialAPIS/YoutubeDownloader-GUI-PHP)](LICENSE)
-[![Issues Open](https://img.shields.io/github/issues/socialAPIS/YoutubeDownloader-GUI-PHP)](Issues Open)
+[![Issues Open](https://img.shields.io/github/issues/socialAPIS/YoutubeDownloader-GUI-PHP)](IssuesOpen)
 [![Forks](https://img.shields.io/github/forks/socialAPIS/YoutubeDownloader-GUI-PHP)](forks)
 [![Stars](https://img.shields.io/github/stars/socialAPIS/YoutubeDownloader-GUI-PHP)](stars)
 
