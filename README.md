@@ -16,6 +16,16 @@ PHP Library with Web UI to download videos from YouTube.
 
 Feel free to fork and contribute if you like this project!
 
+## Demo
+
+First enter your youtube link
+
+![](./docs/enterlink.jpg)
+
+Chose what you want to download, right click Save As
+
+![](./docs/download.jpg)
+
 ## Not Required
 
 We use the Youtube API, the API it self fetches the Id and Key, you don't need to
@@ -38,9 +48,9 @@ There are two ways to set up YouTube-Downloader
 
 1. Download the code for the newest release: [v1.0.0](./releases/release%20v1.0.0.zip)
 2. Unzip the code to your web server
-3. Open the folder with your browser
-4. Open the terminal in your server folder and run `composer install`
-5. Run the server
+3. Open the terminal in your server folder and run `composer install`
+4. Run the server
+5. Open server link in your browser
 
 ### Git
 
