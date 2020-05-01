@@ -55,7 +55,7 @@ There are two ways to set up YouTube-Downloader
 ### Git
 
 1. Clone the code on your server with 
-`git clone https://github.com/socialAPIS/YoutubeDownloader-GUI-PHP.git`
+`git clone https://github.com/socialAPIS/YoutubeDownloader-GUI-PHP.git ./`
 
 2. Open your folder and run `composer install`
 3. Run the server
